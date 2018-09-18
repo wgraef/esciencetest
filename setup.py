@@ -38,7 +38,9 @@ setup(
         'pytest-runner',
         # dependencies for `python setup.py build_sphinx`
         'sphinx',
-        'recommonmark'
+        'recommonmark',
+        'pyvoro',
+        'numpy'
     ],
     tests_require=[
         'pytest',
