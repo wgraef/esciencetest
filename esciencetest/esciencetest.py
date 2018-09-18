@@ -4,8 +4,8 @@ def hithere():
     print('hi')
 
 def dovoro(dim_x, dim_y, cells):
-    import matplotlib
-    import matplotlib.pyplot as plt
+#    import matplotlib
+#    import matplotlib.pyplot as plt
     import pyvoro
     import numpy as np
 
