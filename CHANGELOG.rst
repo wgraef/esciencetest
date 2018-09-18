@@ -11,4 +11,5 @@ This project adheres to `Semantic Versioning <http://semver.org/>`_.
 Added
 -----
 
+* Simple voronoi 2D tesselation test
 * Empty Python project directory structure
